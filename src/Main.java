@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int ticket = 5_373_768;
-        int amount = 1_200;
+        int ticket = 13_884;
+        int amount = 20;
         int bonus = ticket / amount;
 
         System.out.println(bonus);
